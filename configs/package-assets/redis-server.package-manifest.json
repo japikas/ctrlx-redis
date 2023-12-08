@@ -1,0 +1,16 @@
+{
+    "id": "redis-server",
+    "version": "1.0.0",
+    "configuration": {
+        "appDirectories": [
+            {
+                "name": "redis-server",
+                "description": "Redis Server",
+                "icon": "bosch-ic-directory",
+                "scopes": [],
+                "copyOnLoad": true,
+                "writeprotected": false
+            }
+        ]
+    }
+} 
